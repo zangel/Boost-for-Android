@@ -20,4 +20,4 @@ $(AndroidCompiler_%ARCH%)
 <compileflags>-DNDEBUG
 <compileflags>-g
 <compileflags>-Oz
-<linkflags>-shared
+
